@@ -2,7 +2,7 @@ language: node_js
 node_js: node
 deploy:
   provider: heroku
-  api_key:
+  api_key: 52e5cc60-fbf4-4401-ac34-942a601241b4
     secure: 
   app: glacial-inlet-31975
   on:
